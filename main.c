@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main() {
-    printf("Chao GitHub, minh la Nam!\n");
+    printf("Hiiiiiiiiiii everyonem!\n");
     return 0;
 }
